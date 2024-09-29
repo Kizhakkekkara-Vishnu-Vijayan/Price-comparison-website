@@ -56,3 +56,4 @@ GitHub: Kizhakkekkara-Vishnu-Vijayan
 ```
 ## Documentation
 For detailed understanding of the project go throught the documentation part of the price comparison website.
+> https://github.com/Kizhakkekkara-Vishnu-Vijayan/Price-comparison-website/blob/main/price-comparison-documentation.pdf
